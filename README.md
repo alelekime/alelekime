@@ -1,7 +1,7 @@
 # Hello, I'm Ale Souza 👋
 
 ## 👩‍💻 About Me
-I am an iOS Developer with four years of dedicated experience and a broader seven-year background in programming. Fluent in English, I excel in agile team environments, skillfully navigating Scrum and Kanban methodologies. My technical prowess spans across SwiftUI, UIKit, and ViewCode, with a strong emphasis on building scalable and maintainable applications.
+I am an iOS Developer with five years of dedicated experience and a broader eight-year background in programming. Fluent in English, I excel in agile team environments, skillfully navigating Scrum methodologies. My technical prowess spans across SwiftUI, UIKit, and ViewCode, with a strong emphasis on building scalable and maintainable applications.
 
 ## 🛠️ Skills & Expertise
 
